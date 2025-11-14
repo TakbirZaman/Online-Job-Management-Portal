@@ -1,0 +1,5 @@
+2354;Cooking;Null;Kuratoli;500.0;Female;50;Evening
+2134;Cooking;Null;Kuratoli;700.0;Female;45;Morning
+2567;Math Tutor;Null;Uttora;5000.0;Female;30;Evening
+2434;Rider;Null;Uttora;500.0;Male;30;Afternoon
+2139;Singer;Null;Uttora;500.0;Male;50;Morning

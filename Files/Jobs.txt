@@ -1,0 +1,3 @@
+1;Cooking;Null;Kuril;3000;Female;50
+2;Driver;Null;Kuril;890;Male;60
+3;Guard;Null;Kuril;300;Male;60

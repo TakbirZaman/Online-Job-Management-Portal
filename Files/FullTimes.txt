@@ -1,0 +1,5 @@
+34546;Personal Assitant;Null;Uttora;50000.0;Female;35;10%
+31235;Teacher;Null;Banani;700000.0;Female;40;30%
+34875;Driver;Null;Gulshan;30000.0;Male;50;22%
+34874;Corporate Officer;Null;Farmgate;600000.0;Male;35;40%
+34899;Helper;Null;Elefant Road;250000.0;Male;34;10%

@@ -1,0 +1,5 @@
+14233;Rickshawpuller;Null;Kuril;1000.0;Male;40;Strong
+13234;Driver;Null;Kuril;800.0;Male;60;Modarate
+12434;Sweeper;Null;Uttora;500.0;Male;45;Weak
+12245;Delivery Boy;Null;Mirpur;200.0;Male;25;Modarate
+14068;Contuctor;Null;Dhaka;300.0;Male;30;Strong

@@ -1,0 +1,7 @@
+Takbir;1;23;Male;A+;Kuril,Khilkhet;01631107101;Rider;Null
+Aria;2;20;Female;O+;Mirpur;016348978101;Teacher;Null
+Sakib;3;28;Male;B-;Uttora;016348978101;Chef;Null
+Renessa;4;26;Female;B+;Badda;013348978101;Assitant;Null
+Rakib;5;45;Male;A-;Mohammodpur;013348978101;Guard;Null
+Anna;6;40;Female;O-;Mohammodpur;018978978101;Helping Hand;Null
+we;23;23;Female;d;sdf;017689;day;null

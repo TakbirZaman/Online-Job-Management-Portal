@@ -1,0 +1,4 @@
+Gstart.java && java Gstart
+
+UserName= ARESABIR
+Password=1234
